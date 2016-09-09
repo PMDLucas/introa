@@ -1,0 +1,12 @@
+<html>
+    <script>
+        var texta = prompt("Welcome to Twitter of China. Type your tweet here:");
+        if (texta.length >= 140) {
+            confirm("Your message is over 140 character long");
+        }
+        if (texta.length <= 140) {
+            confirm("Tweeted or something I don't know.");
+        }
+        
+    </script>
+</html>
