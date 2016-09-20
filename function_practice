@@ -1,0 +1,34 @@
+<script>
+    var gender = prompt("Male or Female?");
+    if(gender == "Male") {
+        var division = parseInt(38
+                                                       
+    if(gender == "Female") {
+        var division = parseInt(25
+                                }
+                                
+    var sugar = parseInt(prompt("How much sugar in the food?");
+    
+    
+    
+    //stuff
+            
+            function dailySugar(gender, sugar) {
+                
+                
+                
+                
+                
+                
+            }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</script>
