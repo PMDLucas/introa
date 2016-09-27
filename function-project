@@ -1,0 +1,18 @@
+    var cost = parseInt(prompt("How much does the product cost?"));
+    var payment = parseInt(prompt("How much money are you giving?"));
+    
+     //equation
+    
+    function change(cost, payment) {
+        
+    var sum = payment - cost;
+        var result = Math.sqrt(sum);
+        console.log("Change:" + result);
+    }
+    
+    
+    
+    
+    
+    
+</script>
